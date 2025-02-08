@@ -1,1 +1,2 @@
-*.side
+Lib/*.side
+.gitignore
